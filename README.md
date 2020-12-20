@@ -10,9 +10,8 @@ List of private plugins for sale:
  #
   
  ### Game modes
-* **Dust2Only/Public (25€)**
- * Old school public with some additional features like gun menu, skin, characters, vip settings and a lot more
- * Includes custom banlist, database and configuration
+ * **Dust2Only/Public (25€)**
+  * Old school public with some additional features like gun menu, skin, characters, vip settings and a lot more
 
 #
 
