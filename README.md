@@ -11,13 +11,13 @@ List of private plugins for sale:
   
  ### Game modes
  * **Dust2Only/Public (25€)**
-  * Old school public with some additional features like gun menu, skin, characters, vip settings and a lot more
+   * Old school public with some additional features like gun menu, skin, characters, vip settings and a lot more
 
 #
 
  ### Gameplay
  * **Bot control(10€)**
-  * Plugin that allows you to control bot with E
+   * Plugin that allows you to control bot with E
   
 Contact details:
 Steam: https://steamcommunity.com/id/raidonunofficial
