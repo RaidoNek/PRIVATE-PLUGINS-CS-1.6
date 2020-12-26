@@ -5,7 +5,9 @@ List of private plugins for sale:
 ### Administration section
 * **Synergy System (80€)**
   * Complete bansystem which can replace all default amxx plugins, amxbans and a lot more
-  * Includes custom banlist, database and configuration
+  * Includes database and configuration
+* **Secured banlist for Bansystem (15€)**
+  * Banlist which contains bans, searching for ban and administration with adding,listing and editing bans/vips/admins
   
  #
   
