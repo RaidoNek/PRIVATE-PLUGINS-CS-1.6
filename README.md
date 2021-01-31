@@ -28,4 +28,4 @@ List of private plugins for sale:
   
 Contact details:
 Steam: https://steamcommunity.com/id/raidonunofficial
-Discord: RaidoN++#1621
+Discord: RaidoNek++#1621
