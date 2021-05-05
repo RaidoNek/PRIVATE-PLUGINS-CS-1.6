@@ -17,10 +17,6 @@ List of private plugins for sale:
    * + 5€ site for previewing all players who's played the mode - Made in Laravel
 
 #
-
- ### Gameplay
- * **Bot control(10€)**
-   * Plugin that allows you to control bot with E
    
  ### Custom
  * **Want something custom for you?**
