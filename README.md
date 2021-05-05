@@ -14,7 +14,7 @@ List of private plugins for sale:
  ### Game modes
  * **Dust2Only/Public (25€)**
    * Old school public with some additional features like gun menu, skin, characters, vip settings and a lot more
-   * + 5€ site for previewing all players who's played the mode - Made in Laravel
+   * + 5€ site for previewing all players who'd played the mode - Made in Laravel
 
 #
    
